@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- one per line: Name|url  or  Name|app:package.name -->
+    <string-array name="sites">
+        <item>YouTube|app:com.amazon.firetv.youtube</item>
+        <item>TED Talks|https://www.ted.com/talks</item>
+        <item>Vimeo|https://vimeo.com/</item>
+    </string-array>
+</resources>

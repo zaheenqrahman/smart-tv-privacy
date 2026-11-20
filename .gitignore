@@ -1,0 +1,5 @@
+# signing key, build.sh makes one locally
+*.keystore
+*.idsig
+*.apk
+hub-app/out/

@@ -1,0 +1,10 @@
+# leave these ON, they broke stuff when disabled
+com.amazon.livedeviceservice
+com.amazon.neodelegate
+com.amazon.naatyam
+com.amazon.privacypassservice
+com.amazon.uxnotification
+com.amazon.storm.lightning.tutorial
+com.amazon.dp.logger
+com.amazon.client.metrics.api
+com.amazon.metrics.api
